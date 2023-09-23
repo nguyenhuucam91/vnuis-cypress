@@ -22,4 +22,8 @@ describe('Check user login', () => {
     //TODO: Implement code stub here
 
   })
+
+  it("Just another test case", () => {
+
+  });
 })
